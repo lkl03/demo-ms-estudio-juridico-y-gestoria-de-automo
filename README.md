@@ -1,2 +1,7 @@
-# demo-ms-estudio-juridico-y-gestoria-de-automo
-Demo web para MS Estudio Jurídico y Gestoria de Automotores — diseñada por eterlab.
+# MS Estudio Jurídico y Gestoria de Automotores
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
